@@ -1,0 +1,1 @@
+//les fonctyions pour acceder à la vue
